@@ -1,0 +1,12 @@
+# Don't know what this for
+/pipes/
+# Temp file
+/tmp/
+# JS files
+/translators/
+# Auto-backup file
+zotero.sqlite.bak
+# Status files
+*.zotero-ft-cache
+*.zotero-ft-info
+*.zotero-pdf-state
