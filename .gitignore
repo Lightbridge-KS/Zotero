@@ -6,6 +6,7 @@
 /translators/
 # Auto-backup file
 zotero.sqlite.bak
+better-bibtex/cache.*.bak
 # Status files
 *.zotero-ft-cache
 *.zotero-ft-info
